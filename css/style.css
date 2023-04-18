@@ -1,0 +1,45 @@
+* {
+  box-sizing: border-box; 
+} 
+
+body {
+  /* background-image: url(../images/reverse.png); */
+  font-family: 'Montserrat', sans-serif;  
+  background-repeat: no-repeat;
+  background-size: cover; 
+  text-decoration: white; 
+  text-shadow: 0 0 20px 0 black; 
+  text-align: center; 
+  background-color: rgb(234, 156, 169);  
+  padding: 172px; 
+}  
+
+/* .background-with-polka-dots {
+  background-image: radial-gradient(circle, #ffffff 10%, transparent 10%);
+  background-size: 30px 30px; /* Adjust the size of the polka dots as needed */
+
+
+h1 { 
+  color: white;
+  font-weight: 900;
+  font-size: 45px; 
+}
+
+button {
+  width:80px; 
+  height: 30px;
+  font-size: 17px;
+  border-radius: 2px;
+}
+
+input {
+  height:30px; 
+  width:300px; 
+  font-size: 17px;
+  border-radius: 2px;
+}
+
+
+
+
+
